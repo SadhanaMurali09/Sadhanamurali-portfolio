@@ -75,7 +75,7 @@ export default function Hero() {
               View Projects <ArrowDown size={16} />
             </a>
             <a
-              href="/resume.pdf"
+              href="./resume.pdf"
               download
               className="btn-outline"
               style={{ borderColor: "rgba(108,143,255,0.3)", color: "var(--accent)" }}
